@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="/icons.svg" alt="logo" width="140"  height="auto" />
+<img src="pierrelogo.png" alt="logo" width="140"  height="auto" />
 <br/>
 
 
@@ -26,10 +26,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [LEADERBOARD ] <a name="LEADERBOARD"></a>
+# 📖 [Modal ] <a name="Modal"></a>
 
 
-**[LEADERBOARD Pierre]** is a...project was developed with HTML, CSS and JAVASCRIPT, in which we use classes to be able to use various modules in separate files, we also use webpack in this project which consists of an app where you can save your tasks that you will do during the day, like this It will be easier to know what you need to do or what you should do in your day.
+**[Modal Pierre]** is a...project was developed with HTML, CSS and JAVASCRIPT, just its a Modal
 
 ## 🛠 CSS,HTML,JAVASCRIPT <a name="javascript,html,css"></a>
 
@@ -38,8 +38,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Add leaders to the board**
-- **Display list of Leaders**
+- **Modal**
+- **its just a Modal**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -48,7 +48,7 @@
 
 ### Live Demo <a name="Live Demo"></a>
 
-- **[Live Demo](https://pierrebarba.github.io/webpacktodolist/) **
+- **[Live Demo](/) **
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,7 +61,7 @@
 To get a local copy up and running, follow these steps.
 
 
-- git clone https://github.com/PierreBarba/Leaderboard.git
+- git clone https://github.com/PierreBarba/Modal.git
 - cd Leaderboard
 - npm install
 - npm run start
